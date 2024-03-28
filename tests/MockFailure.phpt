@@ -1,5 +1,5 @@
 --TEST--
-A test with a mock fails due to a missing expected call 
+A test with a mock fails due to a missing expected call
 --FILE--
 <?php
 
