@@ -9,10 +9,10 @@ class NoClass extends TestCase
 {
     use ProphecyTrait;
 
-    public function testProphesizeWithoutArguments(): void
+    public function testProphesizeWithoutArguments()
     {
         $prophecy = $this->prophesize()->reveal();
-        
+
         $this->assertInstanceOf(\stdClass::class, $prophecy);
     }
 }
