@@ -9,8 +9,8 @@ library with [PHPUnit](https://phpunit.de) to provide an easier mocking in your 
 
 ### Prerequisites
 
-Prophecy PhpUnit requires PHP 7.3 or greater.
-Prophecy PhpUnit requires PHPUnit 9.1 or greater. Older versions of PHPUnit are providing the Prophecy integration themselves.
+Prophecy PhpUnit requires PHP 5.6 or greater.
+Prophecy PhpUnit requires PHPUnit 5.0 or greater.
 
 ### Setup through composer
 
