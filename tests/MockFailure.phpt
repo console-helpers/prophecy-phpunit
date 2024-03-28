@@ -25,7 +25,8 @@ Double\DateTime\P1:
     but 1 were made:
       - format("Y-m-d") @ fixtures/MockFailure.php:%d
 
-%s/src/ProphecyTrait.php:%d
+%s/src/ProphecyTrait%d.php:%d
+%s/src/ProphecyTrait%d.php:%d
 %s/tests/run_test.php:%d
 
 FAILURES!

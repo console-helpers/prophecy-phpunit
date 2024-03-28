@@ -15,6 +15,7 @@ class SpyFailure extends TestCase
 
         $prophecy->reveal();
 
+        // Native PHPUnit implementation don't add this to the assertion count.
         $prophecy->format('Y-m-d')->shouldHaveBeenCalled();
     }
 }
