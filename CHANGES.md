@@ -1,3 +1,7 @@
+# 3.0.0
+
+* Add support for PHP 5.6
+
 # 2.2.0
 
 * Add support for PHPUnit 11
