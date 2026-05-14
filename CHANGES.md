@@ -1,3 +1,10 @@
+# 3.1.0
+
+Upstream changes:
+
+* Add support for PHPUnit 12 and 13
+* Add a CI job running on PHP 8.4 and 8.5
+
 # 3.0.0
 
 * Add support for PHP 5.6
