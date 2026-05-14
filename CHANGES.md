@@ -12,7 +12,7 @@
 
 # 2.3.0
 
-* Add more precise type for the `prophesize` method
+* changes unmerged
 
 # 2.2.0
 
