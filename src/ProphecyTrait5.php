@@ -85,6 +85,7 @@ trait ProphecyTrait
     private function countProphecyAssertions()
     {
         \assert($this instanceof TestCase);
+        \assert($this->prophet !== null);
 
         foreach ($this->prophet->getProphecies() as $objectProphecy) {
             foreach ($objectProphecy->getMethodProphecies() as $methodProphecies) {
